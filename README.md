@@ -1,16 +1,32 @@
-
 # HR Analytics Dashboard
 
 ## Project Overview
+This project is an interactive HR Analytics Dashboard developed in Power BI to analyze workforce demographics, employee compensation, job satisfaction, and attrition trends. The dashboard enables HR professionals to make data-driven decisions through interactive visualizations and key performance indicators (KPIs).
 
-An interactive Power BI dashboard built to analyze workforce, compensation, employee satisfaction, and attrition trends, helping HR teams make data-driven decisions.
+---
 
-## Tools Used
+## Objectives
+- Analyze workforce demographics
+- Monitor employee compensation
+- Evaluate job satisfaction and work-life balance
+- Identify attrition patterns
+- Support HR decision-making with interactive dashboards
 
+---
+
+## Tools & Technologies
 - Power BI
 - Power Query
 - DAX
 - Data Visualization
+
+---
+
+## Dataset
+- IBM HR Analytics Employee Attrition Dataset
+- Includes employee demographic, compensation, job role, education, performance, and attrition information.
+
+---
 
 ## Dashboard Pages
 
@@ -44,27 +60,39 @@ An interactive Power BI dashboard built to analyze workforce, compensation, empl
 - Attrition by Age Group
 - Attrition Trends
 
-## Features
+---
 
-- Multi-Page Dashboard
-- Navigation Buttons
-- KPI Cards
+## Features
 - Interactive Slicers
+- Multi-Page Dashboard
+- KPI Cards
+- Navigation Buttons
 - Dynamic Visualizations
 
-## Skills Demonstrated
+---
 
+## Skills Demonstrated
 - Data Cleaning using Power Query
-- Data Modeling
 - DAX Calculations
 - Dashboard Design
 - Data Analysis & Reporting
 - Data Visualization
 
-## Dashboard Screenshots
+---
 
+## Repository Contents
+- HR Analytics Dashboard.pbix
+- IBM HR Analytics Dataset (.csv/.xlsx)
+- Project Presentation (.pptx)
+- Dashboard Screenshots
+- README.md
+
+---
+
+## Dashboard Screenshots
 Dashboard screenshots are included in this repository.
 
-## Author
+---
 
+## Author
 **Rakshit Kumar**
